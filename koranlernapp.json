@@ -1,0 +1,14 @@
+[
+ {
+    "id": 0,
+    "alphabet": "ا",
+    "alphabet-translete": "Əlif",
+    "alphabet-pronunciation": "https://lingust.ru/media/sound/ar/lesson1-da.mp3"
+  },
+   {
+    "id": 1,
+    "alphabet": "ب",
+    "alphabet-translete": "Bə",
+    "alphabet-pronunciation": "https://lingust.ru/media/sound/ar/lesson1-di.mp3"
+  }
+]
