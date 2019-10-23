@@ -1,0 +1,46 @@
+[
+  {
+    "contents": "Giriş",
+    "lessons": {
+        "lessonName": "Quranını öyrənilməsinin fəziləti"
+    }
+},
+{
+    "contents": "Dərslər",
+    "lessons": {
+        "lessonName0": "hərflərin yazılışı və tələfüssü",
+        "lessonName1": "hərflərin əzbər söylənilməsi",
+        "lessonName3": "Diakritik işarələr (Hərəkələr)",
+        "lessonName4": "Diakritik işarələr (Hərəkələr)",
+        "lessonName5": "Diakritik işarələr qarışıq (Hərəkələr)",
+        "lessonName6": "Sükun",
+        "lessonName7": "Şadda",
+        "lessonName8": "Mədd",
+        "lessonName9": "Tənvid",
+        "lessonName10": "Uzatma işarələri",
+        "lessonName11": "Əl-qəməriyə və Əl-şəmsiyyə"
+    }
+},
+{
+    "contents": "Sürələr",
+    "lessons": {
+        "lessonName12": "Ən-Nas",
+        "lessonName13": "Əl-Fələq",
+        "lessonName14": "Əl-İxlas",
+        "lessonName15": "Əl-Məsəd",
+        "lessonName16": "Ən-Nasr",
+        "lessonName17": "Ən-Nasr",
+        "lessonName18": "Əl-Fatihə",
+        "lessonName19": "Azan"
+    }
+},
+{
+    "contents": "Təcvid",
+    "lessons": {
+        "lessonName20": "'Nun' səsinin tələffüsü və tənvid",
+        "lessonName21": "'Mim' səsinin tələffüsü",
+        "lessonName22": "'Ro' səsinin tələffüsü"
+    }
+}
+
+]
