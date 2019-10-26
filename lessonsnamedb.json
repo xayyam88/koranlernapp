@@ -2,41 +2,41 @@
   {
     "id": 0,
     "contents": "Giriş",
-    "lessonName": "Quranını öyrənilməsinin fəziləti"
+    "lessoname": "Quranını öyrənilməsinin fəziləti"
 },
 {
     "id": 1,
     "contents": "Dərslər",
-    "lessonName": "hərflərin yazılışı və tələfüssü",
-    "lessonName": "hərflərin əzbər söylənilməsi",
-    "lessonName": "Diakritik işarələr (Hərəkələr)",
-    "lessonName": "Diakritik işarələr (Hərəkələr)",
-    "lessonName": "Diakritik işarələr qarışıq (Hərəkələr)",
-    "lessonName": "Sükun",
-    "lessonName": "Şadda",
-    "lessonName": "Mədd",
-    "lessonName": "Tənvid",
-    "lessonName": "Uzatma işarələri",
-    "lessonName": "Əl-qəməriyə və Əl-şəmsiyyə"
+    "lessoname": "hərflərin yazılışı və tələfüssü",
+    "lessoname": "hərflərin əzbər söylənilməsi",
+    "lessoname": "Diakritik işarələr (Hərəkələr)",
+    "lessoname": "Diakritik işarələr (Hərəkələr)",
+    "lessoname": "Diakritik işarələr qarışıq (Hərəkələr)",
+    "lessoname": "Sükun",
+    "lessoname": "Şadda",
+    "lessoname": "Mədd",
+    "lessoname": "Tənvid",
+    "lessoname": "Uzatma işarələri",
+    "lessoname": "Əl-qəməriyə və Əl-şəmsiyyə"
 },
 {
     "id": 2,
     "contents": "Sürələr",
-    "lessonName": "Ən-Nas",
-    "lessonName": "Əl-Fələq",
-    "lessonName": "Əl-İxlas",
-    "lessonName": "Əl-Məsəd",
-    "lessonName": "Ən-Nasr",
-    "lessonName": "Ən-Nasr",
-    "lessonName": "Əl-Fatihə",
-    "lessonName": "Azan"
+    "lessoname": "Ən-Nas",
+    "lessoname": "Əl-Fələq",
+    "lessoname": "Əl-İxlas",
+    "lessoname": "Əl-Məsəd",
+    "lessoname": "Ən-Nasr",
+    "lessoname": "Ən-Nasr",
+    "lessoname": "Əl-Fatihə",
+    "lessoname": "Azan"
 },
 {
     "id": 3,
     "contents": "Təcvid",
-    "lessonName": "'Nun' səsinin tələffüsü və tənvid",
-    "lessonName": "'Mim' səsinin tələffüsü",
-    "lessonName": "'Ro' səsinin tələffüsü"
+    "lessoname": "'Nun' səsinin tələffüsü və tənvid",
+    "lessoname": "'Mim' səsinin tələffüsü",
+    "lessoname": "'Ro' səsinin tələffüsü"
 }
 
 ]
