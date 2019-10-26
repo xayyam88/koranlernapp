@@ -8,7 +8,7 @@
     "id": 1,
     "contents": "Dərslər",
     "lessoname1": "hərflərin yazılışı və tələfüssü",
-    "lessoname": "hərflərin əzbər söylənilməsi",
+    "lessoname2": "hərflərin əzbər söylənilməsi",
     "lessoname": "Diakritik işarələr (Hərəkələr)",
     "lessoname": "Diakritik işarələr (Hərəkələr)",
     "lessoname": "Diakritik işarələr qarışıq (Hərəkələr)",
@@ -22,8 +22,8 @@
 {
     "id": 2,
     "contents": "Sürələr",
-    "lessoname": "Ən-Nas",
-    "lessoname": "Əl-Fələq",
+    "lessoname1": "Ən-Nas",
+    "lessoname2": "Əl-Fələq",
     "lessoname": "Əl-İxlas",
     "lessoname": "Əl-Məsəd",
     "lessoname": "Ən-Nasr",
@@ -34,8 +34,8 @@
 {
     "id": 3,
     "contents": "Təcvid",
-    "lessoname": "'Nun' səsinin tələffüsü və tənvid",
-    "lessoname": "'Mim' səsinin tələffüsü",
+    "lessoname1": "'Nun' səsinin tələffüsü və tənvid",
+    "lessoname2": "'Mim' səsinin tələffüsü",
     "lessoname": "'Ro' səsinin tələffüsü"
 }
 
