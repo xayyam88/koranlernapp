@@ -1,25 +1,8 @@
-[
-  {
-    "contents": "Giriş",
-    "lessons": {
-        "lessonname": "Quranını öyrənilməsinin fəziləti"
-    }
-},
-{
-    "contents": "Dərslər",
-    "lessons": {
-      "01" : {
-        "id" : 1,
-        "lessoname": "hərflərin yazılışı və tələfüssü"
-      },
-      "02" : {
-        "id" : 2,
-        "lessonname": "hərflərin yazılışı və tələfüssü"
-      },
-      "03" : {
-        "id" : 3,
-        "lessonname": "hərflərin yazılışı və tələfüssü"
-      }
-    }
+{"menu": {
+    "contents" : "Giriş",
+    "items": [
+  {"lessonname" : "Quranını öyrənilməsinin fəziləti"},
+  {"lessonname" : "Quranını öyrənilməsinin fəziləti2"}
+ ]
 }
-]
+}
