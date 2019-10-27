@@ -1,0 +1,35 @@
+[
+  {"contents" : "—Sürələr—"
+    },
+   {
+    "id": 0,
+    "title" : "Ən-Nas"
+   },
+  {
+    "id": 1,
+    "title" : "Əl-Fələq"
+   },
+   
+   {
+    "id": 2,
+    "title" : "Əl-İxlas"
+   },
+  {
+    "id": 3,
+    "title" : "Əl-Məsəd"
+   },
+   
+    {
+    "id": 4,
+    "title" : "Ən-Nasr"
+   },
+   {
+    "id": 5,
+    "title" : "Əl-Fatihə"
+   },
+   
+     {
+    "id": 6,
+    "title" : "Azan"
+   }
+ ]
