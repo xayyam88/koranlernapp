@@ -1,5 +1,6 @@
 [
-  {
+  {"contents" : "Giriş"},
+   {
     "id": 0,
     "name": "Stargate",
     "year": "1994",
@@ -48,4 +49,4 @@
     "image": "https://picsum.photos/id/231/200/300",
     "info": "Stargate Infinity (often abbreviated as SGI or just Infinity) is an American animated science fiction television series and part of Metro-Goldwyn-Mayers (MGM) Stargate franchise, but is not considered official Stargate canon. The show was created by Eric Lewald and Michael Maliani, as a spin-off series of Stargate SG-1, which was created by Brad Wright and Jonathan Glassner in 1997 after the release of the original film, Stargate (1994) by Dean Devlin and Roland Emmerich. The animation had a low viewership rating and poor reception; it was canceled after one season. It was co-produced by Metro-Goldwyn-Mayer Animation and DIC Entertainment (now DHX Media) and directed by Will Meugniot."
   }
-]
+ ]
