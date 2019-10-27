@@ -1,25 +1,47 @@
-{
-  "user_id" : 10,
-  "session_id" : "2c2l3h4ii271aojentejtdcmh3",
-  "products":
-  [
-    {
-      "product_id" : 15,
-      "options" : {
-        "15" : [45, 47],
-        "18" : 52
-      },
-      "quantity" : 1,
-      "price" : 1500
-    },
-    {
-      "product_id" : 16,
-      "options" : {
-        "15" : [47,48],
-        "18" : 51
-      },
-      "quantity" : 2,
-      "price" : 1000
+[
+  {
+    "contents": "Giriş",
+    "lessons": {
+        "lessonName": "Quranını öyrənilməsinin fəziləti"
     }
-  ]
+},
+{
+    "contents": "Dərslər",
+    "lessons": {
+      "01" : {
+        "id" : 1,
+        "lessonName": "hərflərin yazılışı və tələfüssü"
+      },
+      "02" : {
+        "id" : 2,
+        "lessonName": "hərflərin yazılışı və tələfüssü"
+      },
+      "03" : {
+        "id" : 3,
+        "lessonName": "hərflərin yazılışı və tələfüssü"
+      }
+    }
+},
+{
+    "contents": "Sürələr",
+    "lessons": {
+        "lessonName12": "Ən-Nas",
+        "lessonName13": "Əl-Fələq",
+        "lessonName14": "Əl-İxlas",
+        "lessonName15": "Əl-Məsəd",
+        "lessonName16": "Ən-Nasr",
+        "lessonName17": "Ən-Nasr",
+        "lessonName18": "Əl-Fatihə",
+        "lessonName19": "Azan"
+    }
+},
+{
+    "contents": "Təcvid",
+    "lessons": {
+        "lessonName20": "'Nun' səsinin tələffüsü və tənvid",
+        "lessonName21": "'Mim' səsinin tələffüsü",
+        "lessonName22": "'Ro' səsinin tələffüsü"
+    }
 }
+
+]
