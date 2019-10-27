@@ -1,21 +1,25 @@
-[
-  {
-    "id": 0,
-    "contents": "Giriş"
-   "lessons" : {
+{
+  "user_id" : 10,
+  "session_id" : "2c2l3h4ii271aojentejtdcmh3",
+  "products":
+  [
     {
-    "id": 0,
-    "lessoname": "hərflərin yazılışı və tələfüssü"
+      "product_id" : 15,
+      "options" : {
+        "15" : [45, 47],
+        "18" : 52
+      },
+      "quantity" : 1,
+      "price" : 1500
     },
-   {
-    "id": 1,
-    "lessoname": "hərflərin yazılışı və tələfüssü",
-    },
-   {
-    "id": 2,
-    "lessoname": "hərflərin yazılışı və tələfüssü",
+    {
+      "product_id" : 16,
+      "options" : {
+        "15" : [47,48],
+        "18" : 51
+      },
+      "quantity" : 2,
+      "price" : 1000
     }
-  }
+  ]
 }
-  
-]
