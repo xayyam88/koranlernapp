@@ -1,5 +1,5 @@
 [
-  {"contents" : "- Giriş -"},
+  {"contents" : "<Text style={h1}>— Giriş —</Text>"},
    {
     "id": 0,
     "name": "Stargate",
