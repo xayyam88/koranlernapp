@@ -3,43 +3,19 @@
     "id": 0,
     "contents": "Giriş"
    "lessons" : {
-    "lessoname": "Quranını öyrənilməsinin fəziləti",
-    "lessoname": "Quranını öyrənilməsinin fəziləti1"
-  }
-},
-{
+    {
+    "id": 0,
+    "lessoname": "hərflərin yazılışı və tələfüssü"
+    },
+   {
     "id": 1,
-    "contents": "Dərslər",
-    "lessoname1": "hərflərin yazılışı və tələfüssü",
-    "lessoname2": "hərflərin əzbər söylənilməsi",
-    "lessoname": "Diakritik işarələr (Hərəkələr)",
-    "lessoname": "Diakritik işarələr (Hərəkələr)",
-    "lessoname": "Diakritik işarələr qarışıq (Hərəkələr)",
-    "lessoname": "Sükun",
-    "lessoname": "Şadda",
-    "lessoname": "Mədd",
-    "lessoname": "Tənvid",
-    "lessoname": "Uzatma işarələri",
-    "lessoname": "Əl-qəməriyə və Əl-şəmsiyyə"
-},
-{
+    "lessoname": "hərflərin yazılışı və tələfüssü",
+    },
+   {
     "id": 2,
-    "contents": "Sürələr",
-    "lessoname1": "Ən-Nas",
-    "lessoname2": "Əl-Fələq",
-    "lessoname": "Əl-İxlas",
-    "lessoname": "Əl-Məsəd",
-    "lessoname": "Ən-Nasr",
-    "lessoname": "Ən-Nasr",
-    "lessoname": "Əl-Fatihə",
-    "lessoname": "Azan"
-},
-{
-    "id": 3,
-    "contents": "Təcvid",
-    "lessoname1": "'Nun' səsinin tələffüsü və tənvid",
-    "lessoname2": "'Mim' səsinin tələffüsü",
-    "lessoname": "'Ro' səsinin tələffüsü"
+    "lessoname": "hərflərin yazılışı və tələfüssü",
+    }
+  }
 }
-
+  
 ]
